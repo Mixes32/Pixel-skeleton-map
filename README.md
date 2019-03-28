@@ -1,0 +1,2 @@
+# Pixel-skeleton-map
+Skeletons
